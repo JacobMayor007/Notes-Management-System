@@ -1,0 +1,42 @@
+Note ID No.: 1
+Name: Mahusay
+Subject: IT
+Title: OOProg
+Text: Programming is the process of giving a set of instructions to a computer to execute. It is a collaboration between humans and computers, and it is all around us. From the take-out we order, to the movies we stream, code enables everyday actions in our lives. Tech companies are no longer recognizable as just software companies — instead, they bring food to our door, help us get a taxi, influence outcomes in presidential elections, or act as a personal trainer. Programming has evolved from punch cards with rows of numbers that a machine read, to drag-and-drop interfaces that increase programming speed, with lots of other methods in between. Programming is the mental process of thinking up instructions to give to a machine (like a computer). Coding is the process of transforming those ideas into a written language that a computer can understand. While sometimes used interchangeably, programming and coding actually have different definitions. Programming has evolved from punch cards with rows of numbers that a machine read, to drag-and-drop interfaces that increase programming speed, with lots of other methods in between. The number of people learning to code is increasing year by year, with estimates around 31.1 million software developers worldwide, which doesn’t even account for the many other careers that relate to programming. Programming is no longer just for software engineers. Any person can benefit from learning to program — whether it’s learning HTML to improve your marketing emails or taking a SQL course to add a dose of analysis to your research role. Even outside of the tech industry, learning to program is essential to participating in the world around you: it affects the products you buy, the legal policies you vote for, and the data you share online1
+
+Please note that this is just a brief overview of programming and its importance. There is much more to learn about programming, and it can be a rewarding and fulfilling career path for those who are interested.
+
+
+Note ID No.: 2
+Name: Tapere
+Subject: Math
+Title: Basic Calculus
+Text: Calculus is a branch of mathematics that deals with the study of rates of change and accumulation. It is a fundamental tool in many fields, including physics, engineering, economics, statistics, and medicine 1. Basic calculus is important for students taking STEM courses, as it provides a foundation for understanding more advanced concepts. However, many students struggle with calculus due to its abstract nature and the need for strong mathematical skills.
+
+Calculus can be divided into two main branches: differential calculus and integral calculus. Differential calculus deals with the study of rates of change, while integral calculus deals with the study of accumulation 2. These two branches are closely related and are used together to solve a wide range of problems.
+
+Calculus has many real-world applications. For example, it is used in physics to study motion and forces, in economics to study optimization problems, and in medicine to study the spread of diseases 1. Calculus is also used in engineering to design and optimize structures and systems.
+
+Learning calculus can be challenging, but it is an essential skill for many careers. To succeed in calculus, it is important to have a strong foundation in algebra and trigonometry. It is also important to practice regularly and seek help when needed. There are many resources available for students, including textbooks, online courses, and tutoring services.
+
+In conclusion, basic calculus is an important subject for students in STEM fields. It provides a foundation for understanding more advanced concepts and has many real-world applications. While it can be challenging, with practice and perseverance, anyone can learn calculus and use it to solve complex problems.
+
+
+Note ID No.: 3
+Name: Lumbaca
+Subject: Rizal
+Title: His Death
+Text: Dr. Jose Rizal, a Filipino nationalist, was sentenced to death by the Spanish colonial government on December 30, 18961. He was charged with rebellion, sedition, and illegal association, among other things, for his works Noli Me Tangere and El Filibusterismo, which highlighted social cancer1. Rizal was detained because he was being probed, and the Spanish friars discovered that he is a member of the opposition to the Spanish government. They produced testimonial evidence and documentaries proving that Rizal penned journals and letters against the Spanish government’s objectives1. Despite being a prolific contributor to the Spanish newspaper La Solidaridad in Barcelona under the pen names “Dimasalang,” “Laong Laan,” and “May Pagasa,” he was unanimously sentenced to death for the crimes he committed and for inciting rebellion against the Spanish government1.
+
+Rizal’s death had a significant impact on the Philippines and its people. It served as a catalyst for the Philippine Revolution, which eventually led to the country’s independence from Spain2. Rizal’s legacy as a national hero continues to inspire Filipinos to this day. His works and ideas have influenced generations of Filipinos and continue to be studied and celebrated in the Philippines and around the world3.
+
+In conclusion, Dr. Jose Rizal’s death was a pivotal moment in Philippine history. His contributions to the country’s independence movement and his legacy as a national hero continue to inspire Filipinos to this day.
+
+
+Note ID No.: 5
+Name: gfdgh
+Subject: dfdaf
+Title: adfd
+Text: sadfadsf wfsdfa asdf asdf asfsad
+
+

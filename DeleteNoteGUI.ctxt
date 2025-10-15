@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DeleteNoteGUI
+comment1.params=idUpdate\ f
+comment1.target=void\ deleteNoteGUI(java.lang.String,\ javax.swing.JFrame)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

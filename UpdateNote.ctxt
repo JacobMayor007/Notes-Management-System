@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=UpdateNote
+comment1.params=updateID\ updatedID\ updatedName\ updatedSubject\ updatedTitle\ updatedText
+comment1.target=void\ updateInterface(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

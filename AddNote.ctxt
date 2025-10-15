@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AddNote
+comment1.params=ID\ name\ subject\ title\ text
+comment1.target=AddNote(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ addNotes()
+comment3.params=
+comment3.target=void\ displayNotes()
+numComments=4

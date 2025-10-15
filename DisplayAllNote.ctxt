@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DisplayAllNote
+comment1.params=
+comment1.target=DisplayAllNote()
+comment2.params=
+comment2.target=javax.swing.JScrollPane\ getSP()
+comment3.params=
+comment3.target=void\ displayNotes()
+numComments=4
